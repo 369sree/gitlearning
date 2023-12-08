@@ -4,3 +4,4 @@ git pull==>changes in remot repository to local repository
 git init==>for initilazing empty git repository
 git add -A 
 git commit -m "hello"
+git status==>for checking the status if any modifiction is done
